@@ -1,0 +1,9 @@
+name: quay-enterprise-helm
+version: 0.0.1
+description: Helm chart to deploy Quay Enterprise 
+home: http://coreos.com/quay-enterprise
+sources:
+  - https://github.com/notnamed/quay-enterprise-helm
+maintainers:
+   - name: Jordan Cooks
+   - email: jordan.cooks@coreos.com
